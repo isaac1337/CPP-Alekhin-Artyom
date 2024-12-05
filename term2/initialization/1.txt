@@ -1,0 +1,6 @@
+1) Copy
+2) Default
+3) Direct
+4) Default
+5) Copy
+6) Direct
